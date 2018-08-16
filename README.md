@@ -12,9 +12,9 @@ Add it in your root build.gradle at the end of repositories:
   
 Step 2. Add the dependency to Gradle.
 
-        dependencies {
-	     implementation 'com.github.Jay268:RoundedImageView:0.1.0'
-	}  
+            dependencies {
+	         implementation 'com.github.Jay268:RoundedImageView:0.1.0'
+	    }  
 
 XML usage.
 
