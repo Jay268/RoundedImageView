@@ -1,7 +1,11 @@
 # RoundedImageView
 A library to implement RoundedImageView like User Interface for Profile Image in your App.
 
-![Screenshot](RoundedImageView.png)
+
+
+![Screenshot](RoundedImageViewUpdated.png)
+
+
 
 Add it in your root build.gradle at the end of repositories:
 
