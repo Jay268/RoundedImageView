@@ -3,7 +3,7 @@ A library to implement RoundedImageView like User Interface for Profile Image in
 
 
 
-![Screenshot](RoundedImageViewUpdated.png)
+![Screen Shot](https://imgur.com/a/6P1orYB)
 
 
 
